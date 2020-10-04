@@ -1,5 +1,5 @@
 This file is added by Venkat Putrevu.
 
 Student#1: Venkat Putrevu.
-Stufent#2: Narsi Kota.
+Student#2: Narsi Kota.
 Module 2 Git Hub exercise.
